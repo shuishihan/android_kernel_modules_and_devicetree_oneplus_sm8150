@@ -1722,7 +1722,7 @@ bool tp_boot_mode_norma(void)
     }
     return true;
 }
-EXPORT_SYMBOL(tp_boot_mode_normal);
+EXPORT_SYMBOL(tp_boot_mode_norma);
 
 /*
  *    gesture_enable = 0 : disable gesture
